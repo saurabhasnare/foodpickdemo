@@ -1,9 +1,9 @@
 <?php
 //remote connection 
 $servername = "sql6.freemysqlhosting.net"; //server
-$username = "sql6459698"; //username
-$password = "gXHpJLqVZp"; //password
-$dbname = "sql6459698";  //database
+$username = "sql6463235"; //username
+$password = "Bk7DC3JQhF"; //password
+$dbname = "sql6463235";  //database
 
 // devlopment connection
 // main connection file for both admin & front end
